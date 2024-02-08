@@ -1,6 +1,9 @@
 # Data-set2
 About student
 <html>
-  <head> Students result of CS department </head>
+  <head> Department names and cources </head>
+  <body>
+  
+  </body>
   
 </html>
