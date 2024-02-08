@@ -10,11 +10,11 @@ About student
   </ol>
     <b style='Arial" size=20 <Subjects></b>
     <ul>
-    Design of programming language
-       Deep Learning 
-      Machine learning 
-     Data Strcture 
-    Open source system
+    <li>Design of programming language</li>
+    <li>Deep Learning </li>
+    <li>Machine learning</li>
+    <li>Data Strcture</li>
+    <li>Open source system</li>
     </ul>
   </body>
   
