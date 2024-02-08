@@ -2,7 +2,7 @@
 About student
 <html>
   <head> Department names and cources </head>
-  <ol type = a>
+  <ol type = roman number>
   <body>
   <li><p1> MCA two year cource </p1></li>
   <li><p2> MCA three year cousre </p1></li>
