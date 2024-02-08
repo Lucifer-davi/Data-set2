@@ -4,9 +4,9 @@ About student
   <head> Department names and cources </head>
   <ol>
   <body>
-  <p1> MCA two year cource </p1><li></li><br>
-  <p2> MCA three year cousre </p1><li></li><br>
-  <p3> MCA five Year cource </p3><li>
+  <li><p1> MCA two year cource </p1></li>
+  <li><p2> MCA three year cousre </p1></li>
+  <li><p3> MCA five Year cource </p3></li>
   </ol>
   </body>
   
