@@ -2,6 +2,7 @@
 About student
 <html>
   <head> Department names and cources </head>
+  <title> University </title>
   <body>
 <ol type = I>
   <li> MCA two year cource </li>
@@ -17,7 +18,7 @@ About student
     <li>Data Strcture</li>
     <li>Open source system</li>
     </ul>
-      <a href=" https://www.w3schools.com/js/">W3 school<a/>
+      <a href="<a/>
   </body>
   
 </html>
