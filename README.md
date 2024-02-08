@@ -4,9 +4,10 @@ About student
   <head> Department names and cources </head>
   <body>
 <ol type = I>
-  <li><p1> MCA two year cource </p1></li>
-  <li><p2> MCA three year cousre </p1></li>
-  <li><p3> MCA five Year cource </p3></li>
+  <li> MCA two year cource </li>
+  <li> MCA three year cousre </li>
+  <li><MCA five Year cource </li>
+  <li> MBA </p3></li>
   </ol>
     <b style='Arial" size=20 <Subjects></b>
     <ul>
