@@ -3,6 +3,7 @@ About student
 <html>
   <head> Department names and cources </head>
   <title> University </title>
+  <imgsrc = "C:\Users\LAB1\Pictures\Screenshots">
   <body>
 <ol type = I>
   <li> MCA two year cource </li>
