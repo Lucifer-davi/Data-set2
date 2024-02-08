@@ -6,7 +6,7 @@ About student
 <ol type = I>
   <li> MCA two year cource </li>
   <li> MCA three year cousre </li>
-  <li><MCA five Year cource </li>
+  <li>MCA five Year cource </li>
   <li> MBA </p3></li>
   </ol>
     <b style='Arial" size=20 <Subjects></b>
