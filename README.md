@@ -5,7 +5,8 @@ About student
   <title> University </title>
   <img src = "C:\Users\LAB1\Pictures\Screenshots">
   <body>
-<ol type = I>
+<ol type = I>![ss jpg](https://github.com/tarun-kaur/Data-set2/assets/158458030/b2483a77-a319-429d-a1f9-960fb637dbe3)
+
   <li> MCA two year cource </li>
   <li> MCA three year cousre </li>
   <li>MCA five Year cource </li>
